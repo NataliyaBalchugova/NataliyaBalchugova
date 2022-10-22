@@ -12,15 +12,14 @@
 ![Fiddler](https://img.shields.io/badge/-Fiddler-090909?style=for-the-badge&logo=Fiddler&logoColor=EFD81D)
 
 
-## Testing Documentation
+## Testing Documentation and scripts
 
-Bug-Reports
-
-SQL Queries
-
-Postman Collections
-
-Test-Cases
+- [Checklists](https://github.com/NataliyaBalchugova/Checklists.git)
+- [Test-Cases](https://github.com/NataliyaBalchugova/Test-Cases.git)
+- [Bug-Reports](https://github.com/NataliyaBalchugova/Bug-Reports.git)
+- [SQ-Queries](https://github.com/NataliyaBalchugova/SQL-Queries.git)
+- [Postman Collections](https://github.com/NataliyaBalchugova/Postman-Collections.git)
+- [Scripts](https://github.com/NataliyaBalchugova/Scripts.git)
 
 
 ## Follow me
