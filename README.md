@@ -17,7 +17,7 @@
 - [Checklists](https://github.com/NataliyaBalchugova/Checklists.git)
 - [Test-Cases](https://github.com/NataliyaBalchugova/Test-Cases.git)
 - [Bug-Reports](https://github.com/NataliyaBalchugova/Bug-Reports.git)
-- [SQ-Queries](https://github.com/NataliyaBalchugova/SQL-Queries.git)
+- [SQL-Queries](https://github.com/NataliyaBalchugova/SQL-Queries.git)
 - [Postman Collections](https://github.com/NataliyaBalchugova/Postman-Collections.git)
 - [Scripts](https://github.com/NataliyaBalchugova/Scripts.git)
 
